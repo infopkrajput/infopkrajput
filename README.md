@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Pushpendra Kumar](https://bit.ly/m/Pknatic)
+- 👋 Hi, I’m [Pushpendra Kumar](https://bit.ly/m/Pknatic){:target="_blank"}
 - 🌱 I’m currently learning MCA from Sikkim Manipal University
 - 💞️ I’m looking to collaborate to learn new things and grow together 
 - 📫 How to reach me info.pkrajput@gmail.com
