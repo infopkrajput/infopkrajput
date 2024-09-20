@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate to learn new things and grow together 
 - 📫 How to reach me info.pkrajput@gmail.com
 - 😄 Pronouns: pk bhai
-- 🧑‍💻 About <b>
-I am currently pursuing my Master of Computer Applications (MCA) from Sikkim Manipal University through online studies. With a keen interest in programming and technology, I have owned a class where I teach programming (C and C++) and provide various computer services such as OS installation, networking, and software installation.
+- 🧑‍💻 About
+<p>I am currently pursuing my Master of Computer Applications (MCA) from Sikkim Manipal University through online studies. With a keen interest in programming and technology, I have owned a class where I teach programming (C and C++) and provide various computer services such as OS installation, networking, and software installation.
 
 ### Academic Background:
 *	MCA: Sikkim Manipal University (Ongoing)
