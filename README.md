@@ -1,10 +1,4 @@
-# PUSHPENDRA KUMAR
-- 👋 Hi, I’m <a href="https://bit.ly/m/Pknatic">Pushpendra Kumar</a>
-- 🌱 I’m currently learning MCA from Sikkim Manipal University
-- 💞️ I’m looking to collaborate to learn new things and grow together 
-- 📫 How to reach me info.pkrajput@gmail.com
-- 😄 Pronouns: pk bhai
-- 🧑‍💻 About
+<h1 align="center" >👋 Hi, I’m <a href="https://bit.ly/m/Pknatic">Pushpendra Kumar</a></h1>
 <p>I am currently pursuing my Master of Computer Applications (MCA) from Sikkim Manipal University through online studies. With a keen interest in programming and technology, I have owned a class where I teach programming (C and C++) and provide various computer services such as OS installation, networking, and software installation.
 
 ### Academic Background:
