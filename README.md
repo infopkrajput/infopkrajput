@@ -10,11 +10,3 @@ I am currently pursuing my Master of Computer Applications (MCA) from Sikkim Man
 *	Programming Languages: **Java**, **C**, **C++**, **C#**, **python**.
 *	Tools & Technologies: **Postman**, **Docker**, **Git**, **.net**.
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=infopkrajput&show_icons=true&locale=en&layout=compact" alt="infopkrajput" /></p>
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=infopkrajput&show_icons=true&locale=en" alt="infopkrajput" /></p> -->
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=infopkrajput&" alt="infopkrajput" /></p> -->
-
-
